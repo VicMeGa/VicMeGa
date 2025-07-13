@@ -1,5 +1,7 @@
 
 # Hi! I'm Victor Meneses
+💻 Programming Technician with a passion for innovative software solutions
+🌍 Based in Mexico
 ## What I do
 
 * **Full-Stack Development** with React, .Net Core, and modern web technologies
