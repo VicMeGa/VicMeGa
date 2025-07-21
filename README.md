@@ -2,6 +2,8 @@
 # Hi! I'm Victor Meneses
 💻 Programming Technician with a passion for innovative software solutions
 🌍 Based in Mexico
+Inline-style: 
+![alt text](https://github.com/VicMeGa/VicMeGa/blob/main/-ekbq.jpg "Logo Title Text 1")
 ## What I do
 
 * **Full-Stack Development** with React, .Net Core, and modern web technologies
