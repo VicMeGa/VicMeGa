@@ -6,16 +6,16 @@ Inline-style:
 ![alt text](https://github.com/VicMeGa/VicMeGa/blob/main/-ekbq.jpg "Logo Title Text 1")
 ## What I do
 
-* **Full-Stack Development** with React, .Net Core, and modern web technologies
+* **Full-Stack Development** with React, .Net Core, Nest.js
 * **UI/UX Design** creating user-centered digital experiences
 * **Mobile Development** using React Native
 * **Database Management** with MySQL, PostgreSQL, and MongoDB
 
 ## Tech Stack
 * **Languages**: Java, C, C#, JavaScript, TypeScript, Python
-* **Frontend**: React, Angular, Vue.js, HTML5, CSS
-* **Backend**: Spring Boot, .NET, Django
-* **Tools**: Git, Figma, VS Code, Blender
+* **Frontend**: React, HTML5, CSS
+* **Backend**: Spring Boot, .NET, Django, Nest.js
+* **Tools**: Git, Figma, VS Code, Blender, Unity
 * **Databases**: MySQL, PostgreSQL, MongoDB
 
 # 🐧 BTW, I use Arch Linux
